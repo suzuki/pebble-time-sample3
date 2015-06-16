@@ -1,0 +1,18 @@
+{
+  "uuid": "9c928f37-1070-4322-865e-7a840b5d2aea",
+  "shortName": "pebble-time-sample3",
+  "longName": "pebble-time-sample3",
+  "companyName": "0610.org",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
